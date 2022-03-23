@@ -23,5 +23,10 @@ An online shop to sell and buy handmade items.
 * Asp.net core - MS SQL - LINQ - Entity Framework
 
 # Some Screenshots From Website:
-#Login
+# Login
 ![Login](https://user-images.githubusercontent.com/36867393/159616578-e941ec24-ee69-4033-be8a-b4a0a9c59f77.PNG)
+
+# Register
+![Register1](https://user-images.githubusercontent.com/36867393/159616686-f78b04cf-a1fe-443c-b35d-33a3f7ebbd5f.PNG)
+![Register2](https://user-images.githubusercontent.com/36867393/159616700-84d03a53-4b19-4391-a099-4778c6070030.PNG)
+
