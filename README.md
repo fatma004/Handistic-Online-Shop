@@ -30,3 +30,10 @@ An online shop to sell and buy handmade items.
 ![Register1](https://user-images.githubusercontent.com/36867393/159616686-f78b04cf-a1fe-443c-b35d-33a3f7ebbd5f.PNG)
 ![Register2](https://user-images.githubusercontent.com/36867393/159616700-84d03a53-4b19-4391-a099-4778c6070030.PNG)
 
+# Home
+![home1](https://user-images.githubusercontent.com/36867393/159628106-e4e57ceb-8f24-4138-8528-2119c0baf24f.png)
+![home2](https://user-images.githubusercontent.com/36867393/159628165-f54d5cb5-bb12-4320-b973-0dabbbed0f87.png)
+
+
+
+
